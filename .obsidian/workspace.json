@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edc77dec3a0a3e24",
+            "id": "0fe308233296fb37",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,22 +18,142 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Vulnerabilidades em Sistemas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":43},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Introdução ao Pentest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução ao Pentest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}},\"scroll\":2.5927291398195877}"
+                },
+                {
+                  "title": "Introdução a Segurança da Informação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução a Segurança da Informação\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Legislação para Crimes Cibernéticos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Legislação para Crimes Cibernéticos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":61},\"to\":{\"line\":16,\"ch\":61}},\"scroll\":3.5713859857592904}"
+                },
+                {
+                  "title": "Pilares da Segurança da Informação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":43},\"to\":{\"line\":26,\"ch\":43}},\"scroll\":15.109779927807194}"
+                },
+                {
+                  "title": "Principais Terminologias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Principais Terminologias\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":43},\"to\":{\"line\":11,\"ch\":43}},\"scroll\":0}"
+                },
+                {
+                  "title": "Profissionais x Criminosos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Profissionais x Criminosos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Profissionais x Criminosos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":43},\"to\":{\"line\":25,\"ch\":43}},\"scroll\":16.48156783880841}"
+                },
+                {
                   "title": "Riscos na internet (Prova de conceito)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Portsentry",
+                  "title": "Vulnerabilidades em Sistemas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Portsentry\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":43},\"to\":{\"line\":23,\"ch\":43}},\"scroll\":0}"
+                },
+                {
+                  "title": "Pilares da Segurança da Informação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.929028435774109}"
+                },
+                {
+                  "title": "VPN",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"VPN\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Modelo de Relatório DCPT",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Modelo de Relatório DCPT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Modelo de Relatório DCPT\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Documentação e Notas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Documentação e Notas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Profissionais x Criminosos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Profissionais x Criminosos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Profissionais x Criminosos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.970594718992247}"
+                },
+                {
+                  "title": "Vulnerabilidades em Sistemas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Riscos na internet (Prova de conceito)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introdução a Segurança da Informação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução a Segurança da Informação\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Legislação para Crimes Cibernéticos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Legislação para Crimes Cibernéticos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Pilares da Segurança da Informação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Principais Terminologias",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Principais Terminologias\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":36},\"to\":{\"line\":11,\"ch\":36}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Profissionais x Criminosos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Profissionais x Criminosos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Profissionais x Criminosos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.48156783880841}"
+                },
+                {
+                  "title": "Riscos na internet (Prova de conceito)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Vulnerabilidades em Sistemas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":36},\"to\":{\"line\":23,\"ch\":36}},\"scroll\":5.851437335284551}"
                 },
                 {
                   "title": "Riscos na internet (Prova de conceito)",
@@ -42,251 +162,77 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":36},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "Principais Terminologias",
+                  "title": "Vulnerabilidades em Sistemas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Principais Terminologias\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Riscos na internet (Prova de conceito)",
+                  "title": "Introdução ao Pentest",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":105},\"to\":{\"line\":4,\"ch\":105}},\"scroll\":0}"
-                },
-                {
-                  "title": "Portsentry",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Portsentry\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":66},\"to\":{\"line\":19,\"ch\":66}},\"scroll\":5.126666259765625}"
-                },
-                {
-                  "title": "Riscos na internet (Prova de conceito)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "Portsentry",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Portsentry\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":6.7988159552779655}"
-                },
-                {
-                  "title": "ACE Framework",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Referencias Pessoais 🧩/Organização/ACE Framework.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ACE Framework\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Obsidian Cheat Sheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Ferramentas 🛠/Obsidian/Obsidian Cheat Sheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Obsidian Cheat Sheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Riscos na internet (Prova de conceito)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":55},\"to\":{\"line\":2,\"ch\":55}},\"scroll\":0}"
-                },
-                {
-                  "title": "Pilares da Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":36},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":15.109779927807194}"
-                },
-                {
-                  "title": "Riscos na internet (Prova de conceito)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pilares da Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":8},\"to\":{\"line\":10,\"ch\":8}},\"scroll\":0}"
-                },
-                {
-                  "title": "Introdução a Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução a Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":40},\"to\":{\"line\":0,\"ch\":40}}}"
-                },
-                {
-                  "title": "Pilares da Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Introdução a Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução a Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":35},\"to\":{\"line\":8,\"ch\":35}}}"
-                },
-                {
-                  "title": "Pilares da Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Pilares da Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":36},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Introdução a Segurança da Informação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução a Segurança da Informação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":63},\"to\":{\"line\":11,\"ch\":63}},\"scroll\":0.20000521101223454}"
-                },
-                {
-                  "title": "Documentação e Notas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Documentação e Notas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Modelo de Relatório DCPT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Modelo de Relatório DCPT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Modelo de Relatório DCPT\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução ao Pentest\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Documentação e Notas",
+                  "title": "Vulnerabilidades em Sistemas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Documentação e Notas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":42},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0.3498797225326215}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":14},\"to\":{\"line\":20,\"ch\":14}},\"scroll\":0.8138558520198956}"
                 },
                 {
-                  "title": "VPN",
+                  "title": "Legislação para Crimes Cibernéticos",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"VPN\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":42},\"to\":{\"line\":14,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Legislação para Crimes Cibernéticos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "Documentação e Notas",
+                  "title": "Riscos na internet (Prova de conceito)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Documentação e Notas\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":36},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Legislação para Crimes Cibernéticos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Legislação para Crimes Cibernéticos\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "VPN",
+                  "title": "Profissionais x Criminosos",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"VPN\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Profissionais x Criminosos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Profissionais x Criminosos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":2},\"to\":{\"line\":1,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Riscos na internet (Prova de conceito)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Riscos na internet (Prova de conceito)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":36},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Profissionais x Criminosos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Profissionais x Criminosos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Profissionais x Criminosos\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "16",
+                  "title": "Principais Terminologias",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/2025/11/16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Principais Terminologias\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":87},\"to\":{\"line\":9,\"ch\":87}}}"
                 },
                 {
-                  "title": "2025-11-16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":43},\"to\":{\"line\":1,\"ch\":43}}}"
-                },
-                {
-                  "title": "16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/2025/11/16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2025-11-16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/2025/11/16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2025-11-16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "O Calendário 🗓",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/O Calendário 🗓.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"O Calendário 🗓\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/2025/11/16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "VPN",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"VPN\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "ACE Framework",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Referencias Pessoais 🧩/Organização/ACE Framework.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ACE Framework\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":29},\"to\":{\"line\":5,\"ch\":29}},\"scroll\":0}"
-                },
-                {
-                  "title": "16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/2025/11/16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "O Esforço 🔧",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Esforços 🏋🏻‍♂️/O Esforço 🔧.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"O Esforço 🔧\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "O Calendário 🗓",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/O Calendário 🗓.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"O Calendário 🗓\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":7}}}"
-                },
-                {
-                  "title": "O Atlas 🧭",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/O Atlas 🧭.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"O Atlas 🧭\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}}}"
-                },
-                {
-                  "title": "16",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendario 📅/2025/11/16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"16\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "VPN",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"VPN\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":42},\"to\":{\"line\":14,\"ch\":42}},\"scroll\":0}"
-                },
-                {
-                  "title": "ACE Framework",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Referencias Pessoais 🧩/Organização/ACE Framework.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ACE Framework\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":241.524134795906}"
-                },
-                {
-                  "title": "Lista de Compras Recorrentes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Vida Pessoal 🌳/Lista de Compras Recorrentes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lista de Compras Recorrentes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":24},\"to\":{\"line\":2,\"ch\":24}}}"
+                  "title": "Release Notes 1.10.6",
+                  "icon": "lucide-book-up",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.10.6\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.10.6\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -301,7 +247,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Principais Terminologias"
+              "title": "Introdução ao Pentest"
             }
           }
         ]
@@ -600,20 +546,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "edc77dec3a0a3e24",
+  "active": "0fe308233296fb37",
   "lastOpenFiles": [
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md",
-    "Untitled.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Principais Terminologias.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Profissionais x Criminosos.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Riscos na internet (Prova de conceito).md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Modelo de Relatório DCPT.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md",
+    "Untitled.md",
     "Atlas 🗺/Referencias Pessoais 🧩/Organização/ACE Framework.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario",
     "Atlas 🗺/Ferramentas 🛠/Obsidian/Obsidian Cheat Sheet.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Modelo de Relatório DCPT.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação",
     "Calendario 📅/2025/11/16.md",
     "Calendar/2025-11-16.md",
@@ -629,15 +580,10 @@
     "Esforços 🏋🏻‍♂️/4. Deep Work (+2h) 🔵",
     "Esforços 🏋🏻‍♂️/3. High Effort (45–120 min) 🔴",
     "Esforços 🏋🏻‍♂️/2. Medium Effort (15–45 min) 🟡",
-    "Esforços 🏋🏻‍♂️/1. Low Effort (até 15 min) 🟢",
     "Atlas/Dots/Things/ACE Folder Framework.md",
     "Atlas/Dots/Things/Benefits of LYT frameworks.md",
     "Atlas/Dots/X/+ About Atlas.md",
     "Atlas/Dots/Statements/We chronically underestimate how long something takes.md",
-    "Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
-    "Atlas/Dots/Statements/Double down and keep collecting..md",
-    "Atlas/Dots/Statements/Ant pheromone trails act like potential habits.md",
-    "Atlas/Dots/Statements/ACE helps you with context switching.md",
     "x/Images/robert-mccall-black-hole-concept-art copy.jpg",
     "x/Images/feynman-triangulation-3.png",
     "x/Images/feynman-triangulation-2.png",
