@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Introdução ao Pentest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução ao Pentest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":43},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":10.758654461065436}"
+                },
+                {
                   "title": "Vulnerabilidades em Sistemas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vulnerabilidades em Sistemas\"}",
@@ -232,7 +238,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -247,7 +253,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introdução ao Pentest"
+              "title": "Tipos de Testes de Segurança"
             }
           }
         ]
@@ -548,8 +554,13 @@
   },
   "active": "0fe308233296fb37",
   "lastOpenFiles": [
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md",
+    "Atlas/Utilities/Images/Pasted image 20251227105241.png",
+    "Atlas/Utilities/Images",
+    "Atlas/Utilities",
+    "Atlas",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md",
@@ -577,13 +588,8 @@
     "Esforços 🏋🏻‍♂️/5. Abissal Effort (±2d) 💀",
     "Esforços 🏋🏻‍♂️/Inbox de tarefas (opcional) 📨",
     "Esforços 🏋🏻‍♂️/Untitled.md",
-    "Esforços 🏋🏻‍♂️/4. Deep Work (+2h) 🔵",
-    "Esforços 🏋🏻‍♂️/3. High Effort (45–120 min) 🔴",
-    "Esforços 🏋🏻‍♂️/2. Medium Effort (15–45 min) 🟡",
     "Atlas/Dots/Things/ACE Folder Framework.md",
     "Atlas/Dots/Things/Benefits of LYT frameworks.md",
-    "Atlas/Dots/X/+ About Atlas.md",
-    "Atlas/Dots/Statements/We chronically underestimate how long something takes.md",
     "x/Images/robert-mccall-black-hole-concept-art copy.jpg",
     "x/Images/feynman-triangulation-3.png",
     "x/Images/feynman-triangulation-2.png",
