@@ -6,7 +6,7 @@
       {
         "id": "e22cad6555f30906",
         "type": "tabs",
-        "dimension": 62.4813153961136,
+        "dimension": 62.48131539611361,
         "children": [
           {
             "id": "d7ab3c63f8701df5",
@@ -17,6 +17,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Carreira em Pentest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/3 - Carreira em Pentest/Carreira em Pentest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Carreira em Pentest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":36},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/4 - Virtualização e Sistemas Operacionais/Introdução a virtualização.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Carreira em Pentest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/3 - Carreira em Pentest/Carreira em Pentest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Carreira em Pentest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Preparando para ação (Clientes)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Preparando para ação (Clientes).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Preparando para ação (Clientes)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":95,\"ch\":42},\"to\":{\"line\":95,\"ch\":0}},\"scroll\":78.61332221584108}"
                 },
                 {
                   "title": "Metodologias de Pentest",
@@ -65,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Preparando para ação (Clientes).md",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/4 - Virtualização e Sistemas Operacionais/Introdução a virtualização.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +104,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Preparando para ação (Clientes)"
+              "title": "Introdução a virtualização"
             }
           }
         ]
@@ -174,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.51302337646484
+    "width": 291.51302337646484
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -374,9 +398,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "53d65d44980187dd",
+  "active": "d7ab3c63f8701df5",
   "lastOpenFiles": [
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/3 - Carreira em Pentest/Carreira em Pentest.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/4 - Virtualização e Sistemas Operacionais/Introdução a virtualização.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/4 - Virtualização e Sistemas Operacionais",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Preparando para ação (Clientes).md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/3 - Carreira em Pentest",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Metodologias de Pentest.md",
     "Atlas/Utilities/Images/Pasted image 20251227151552.png",
     "Atlas/Utilities/Images",
@@ -407,15 +435,11 @@
     "Untitled.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario",
     "Atlas 🗺/Ferramentas 🛠/Obsidian/Obsidian Cheat Sheet.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação",
     "Calendario 📅/2025/11/16.md",
     "Calendar/2025-11-16.md",
     "Calendario 📅/O Calendário 🗓.md",
     "Atlas 🗺/Vida Pessoal 🌳/Lista de Compras Recorrentes.md",
     "Esforços 🏋🏻‍♂️/O Esforço 🔧.md",
-    "Calendar",
-    "Atlas 🗺/O Atlas 🧭.md",
-    "Esforços 🏋🏻‍♂️/Untitled.md",
     "x/Images/robert-mccall-black-hole-concept-art copy.jpg",
     "x/Images/feynman-triangulation-3.png",
     "x/Images/feynman-triangulation-2.png",
