@@ -6,33 +6,34 @@
       {
         "id": "e22cad6555f30906",
         "type": "tabs",
+        "dimension": 75.2373417721519,
         "children": [
           {
-            "id": "53d65d44980187dd",
+            "id": "e3095ae83635670b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Untitled.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Untitled\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Introdução ao Terminal",
+                  "title": "Kubeconfig",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Introdução ao Terminal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introdução ao Terminal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":71},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Kubeconfig.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kubeconfig\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":190,\"ch\":64},\"to\":{\"line\":187,\"ch\":0}},\"scroll\":176.52913346261263}"
                 },
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "title": "Gerenciando Usuários",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Gerenciando Usuários\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":71},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":10.369613718377694}"
+                },
+                {
+                  "title": "Release Notes 1.11.7",
+                  "icon": "lucide-book-up",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.11.7\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.11.7\"}",
                   "eState": "{}"
                 }
               ]
@@ -40,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md",
-                "mode": "source",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,7 +56,33 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gerenciando Usuários"
+              "title": "Cluster Manifests & Labs"
+            }
+          }
+        ]
+      },
+      {
+        "id": "11df9b5a178a8ad8",
+        "type": "tabs",
+        "dimension": 24.7626582278481,
+        "children": [
+          {
+            "id": "76fdafbd1f819855",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -263,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +300,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gerenciando Usuários"
+              "title": "Backlinks for Cluster Manifests & Labs"
             }
           },
           {
@@ -323,11 +350,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "e3095ae83635670b",
   "lastOpenFiles": [
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Kubeconfig.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro",
     "Untitled.base",
     "Untitled 1.base",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Introdução ao Terminal.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/4 - Virtualização e Sistemas Operacionais/Sistemas operacionais.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux",
@@ -348,7 +378,6 @@
     "Atlas 🗺/Utilities/Images/Pasted image 20251227105839.png",
     "Atlas 🗺/Utilities/Images/Pasted image 20251227105241.png",
     "Atlas 🗺/Utilities/Images",
-    "Atlas 🗺/Utilities",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Vulnerabilidades em Sistemas.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md",
@@ -360,11 +389,9 @@
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/VPN.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Modelo de Relatório DCPT.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/2 - Introdução ao Penetration Testing",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md",
     "Untitled.md",
     "Atlas 🗺/Ferramentas 🛠/Obsidian/Obsidian Cheat Sheet.md",
-    "Calendario 📅/2025/11/16.md",
     "x/Images/robert-mccall-black-hole-concept-art copy.jpg",
     "x/Images/feynman-triangulation-3.png",
     "x/Images/feynman-triangulation-2.png",
