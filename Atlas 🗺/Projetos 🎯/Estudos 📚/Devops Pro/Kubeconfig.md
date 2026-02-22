@@ -145,6 +145,21 @@ export KUBECONFIG=~/.kube/config-unificado.yaml     # Linux/macOS
 $env:KUBECONFIG="$HOME\.kube\config-unificado.yaml" # PowerShell
 ```
 
+### Forma ensinada no DEVOPS PRO para unir dois config.yaml em um único
+
+```Shell
+KUBECONFIG=~/.kube/configA.yaml:~/.kube/configB.yaml kubectl config view --flatten > merge-config.yaml
+```
+
+Desta forma você aplica como variável de ambiente "KUBECONFIG=" o resultado do "config view --flatten" que foi salvo dentro de um novo yaml, tudo em um único comando.
+
+Podendo sobrescrever o config padrão seguindo com o comando
+
+```shell
+cp ~/.kube/merge-config.yaml ~/.kube/config
+```
+
+
 ---
 
 ## Minify vs Flatten (diferença rápida)

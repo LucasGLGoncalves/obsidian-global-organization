@@ -19,6 +19,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cluster Manifests & Labs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cluster Manifests & Labs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":413,\"ch\":64},\"to\":{\"line\":411,\"ch\":0}},\"scroll\":400.71089808835893}"
+                },
+                {
+                  "title": "NFS Storage Server",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/NFS Storage Server.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NFS Storage Server\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":21.688165955062985}"
+                },
+                {
+                  "title": "Kubeconfig",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Kubeconfig.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kubeconfig\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":160,\"ch\":0},\"to\":{\"line\":160,\"ch\":0}},\"scroll\":143.6080618571203}"
+                },
+                {
+                  "title": "Cluster Manifests & Labs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cluster Manifests & Labs\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Kubeconfig",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Kubeconfig.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kubeconfig\"}",
@@ -41,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md",
-                "mode": "preview",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/NFS Storage Server.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cluster Manifests & Labs"
+              "title": "NFS Storage Server"
             }
           }
         ]
@@ -290,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md",
+                "file": "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/NFS Storage Server.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +324,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cluster Manifests & Labs"
+              "title": "Backlinks for NFS Storage Server"
             }
           },
           {
@@ -353,8 +377,9 @@
   "active": "e3095ae83635670b",
   "lastOpenFiles": [
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Cluster Manifests & Labs.md",
-    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/NFS Storage Server.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro/Kubeconfig.md",
+    "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/5 - Dominando o terminal do Linux/Gerenciando Usuários.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Devops Pro",
     "Untitled.base",
     "Untitled 1.base",
@@ -391,7 +416,6 @@
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/0 - Apresentação/Documentação e Notas.md",
     "Atlas 🗺/Projetos 🎯/Estudos 📚/Pentest – DesecSecurity 👨🏻‍💻🐱‍👤/Glossario/Portsentry.md",
     "Untitled.md",
-    "Atlas 🗺/Ferramentas 🛠/Obsidian/Obsidian Cheat Sheet.md",
     "x/Images/robert-mccall-black-hole-concept-art copy.jpg",
     "x/Images/feynman-triangulation-3.png",
     "x/Images/feynman-triangulation-2.png",
